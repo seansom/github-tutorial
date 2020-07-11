@@ -1,1 +1,1 @@
-added a new txt file to origin/master
+changed text in sample file 2. >:)
